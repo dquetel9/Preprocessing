@@ -8,6 +8,7 @@ Ex:  D:\Data\m17\m17_190503_122105
 
 2. All code should be made to be buzcode compatible.  
 buzcode github link (https://github.com/buzsakilab/buzcode/tree/0312cfdf7f29528e75e03dd6d547b1313702e6a6)
+      - Make sure to clone their repository to your computer and set it up using their README
 
 3. We use the intan recording system for all of our recording and it creates a session folder for each recording with all of the necessary files inside. 
 
