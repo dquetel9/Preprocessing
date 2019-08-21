@@ -37,7 +37,7 @@ Klusters is the program you will use to spike sort your recordings
 
 MATLAB is the program you will use for the bulk of your data analysis
 
-# Functions used in preprocessing in MATLAB
+# Functions used for preprocessing in MATLAB
    - Some more information on each of these functions can be found in their help sections but ultimately the best way to learn what they have in them is to use them
 1. bz_RunAnimalMetadata.m
     - This function creates a text file containing all of the metadata for the individual animal. This includes date of birth, surgery     data, some recording info, animal strain, etc.
