@@ -27,11 +27,17 @@ This README aims to explain those contents and how to get them into a working fo
 7. info.rhd
 8. amplifier.xml (this should be made ahead of time by you so that you can watch the recording live)
 
+# Programs used in data analysis
+
 Neuroscope is the program used to view the .dat files.  Once you open a .dat file in Neuroscope it will make a new .nrs and .xml of the .dat file name. NOTE: Neuroscope won't open the .dat files if the existing .xml file doesn't match the .nrs file
 
-NDManager is the program used to view and edit the .xml files 
+NDManager is the program you will use to view and edit the .xml files 
 
-# Functions used in preprocessing 
+Klusters is the program you will use to spike sort your recordings
+
+MATLAB is the program you will use for the bulk of your data analysis
+
+# Functions used in preprocessing in MATLAB
    - Some more information on each of these functions can be found in their help sections but ultimately the best way to learn what they have in them is to use them
 1. bz_RunAnimalMetadata.m
     - This function creates a text file containing all of the metadata for the individual animal. This includes date of birth, surgery     data, some recording info, animal strain, etc.
