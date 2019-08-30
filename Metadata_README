@@ -1,0 +1,15 @@
+# Description
+
+In this folder are files and templates pertaining to animal/ session metadata that is to be kept with the animal/ session folders respectively.  All of the metadata we are recording is taken from what the buzcode metadata functions make, so if there are any requests/ recommendations to add specific fields to the metadata files feel free to offer them!
+
+# Animal Metadata
+
+Animal_metadata_txt_template.txt is a basic txt template that should be filled out when you are starting to work with a new animal. This information ranges from animal name, DOB, and genotype to the session done, file locations, and surgeries.  This filled out file should be added to the animal super folder on globus as soon as you are done with a recording and then should be updated as you continue to work with the animal until it is sacked.   
+
+# Session Metadata
+
+Session_metadata_txt_template.txt is a basic txt template that should be filled out for each recording session done with that animal.  This information tracks everything pertaining to the specific recording and should be stored in the specific session folder.
+
+# Probe Maps
+
+Probe maps are the channel maps of the specific probes we use during our recordings they are 
